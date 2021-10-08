@@ -2,5 +2,5 @@
 
 #Dev - Started by Herojas
 
-Un comentario mas
+Comentario de conflicto, termine el codigo
 #Close comments
